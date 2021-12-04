@@ -1,5 +1,5 @@
 # Node LTS Base
-At the time of writing, Replit uses Node 12 by default. This project makes replit use Node's LTS instead.
+At the time of writing, Replit uses Node 12 by default. This project makes replit use Node's Latest LTS instead.
 
 ## Set up
 To set up a Node@LTS Repl using this repository, do the following:
