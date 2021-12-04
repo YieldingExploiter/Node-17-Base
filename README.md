@@ -1,9 +1,9 @@
-# Node 17 Base
-At the time of writing, Replit uses Node 12 by default. This project makes replit use Node 17 instead.
+# Node LTS Base
+At the time of writing, Replit uses Node 12 by default. This project makes replit use Node's LTS instead.
 
 ## Set up
-To set up a Node@17 Repl using this repository, do the following:
-1. Visit [this repl page](https://replit.com/@YieldingCoder/Node-17-Base?v=1)
+To set up a Node@LTS Repl using this repository, do the following:
+1. Visit [this repl page](https://replit.com/@YieldingCoder/Node-LTS-Base?v=1)
 2. Fork it
 3. Click `Run`
 4. Done!
