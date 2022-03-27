@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 # Node 17 Base
 At the time of writing, Replit uses Node 12 by default. This project makes replit use Node 17 instead.
 
